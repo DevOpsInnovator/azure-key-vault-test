@@ -1,0 +1,1 @@
+streamlit run app.py --server.port 8080 --server.headless true --browser.gatherUsageStats false
