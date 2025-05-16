@@ -1,1 +1,2 @@
-streamlit run app.py --server.port 8080 --server.headless true --browser.gatherUsageStats false
+#!/bin/bash
+streamlit run app.py --server.port $PORT --server.headless true
